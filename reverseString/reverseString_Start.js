@@ -9,5 +9,5 @@
 
 function reverseString(str) {
     
-  }
-  console.log(reverseString("hello")); // returns "olleh"
+}
+console.log(reverseString("hello")); // returns "olleh"
